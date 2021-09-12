@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Jetbrains IDE
+.idea
+
+# MacOS
+.DS_Store
