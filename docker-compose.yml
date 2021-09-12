@@ -4,7 +4,7 @@ version: "3"
 
 services:
   my-image:
-    image: my-image:latest
     build: .
+    image: my-image:latest
     restart: always
     container_name: "my-image"
