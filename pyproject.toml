@@ -36,7 +36,7 @@ exclude = "./venv"
 ignore_missing_imports = true
 pretty = true
 strict = true
-plugins = 
+plugins = ""
 
 
 [build-system]
