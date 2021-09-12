@@ -1,0 +1,24 @@
+# Jetbrains IDE config
+.idea/
+
+# virtualenv
+venv/
+.venv/
+.python-version
+
+# macOS
+.DS_Store
+
+# cache
+**/__pycache__/
+
+# git & ci
+.github/
+.deepsource.toml
+README.md
+LICENSE
+.gitignore
+.git/
+
+# logs
+logs/
