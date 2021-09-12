@@ -11,6 +11,7 @@ venv/
 
 # cache
 **/__pycache__/
+mypy_cache/
 
 # git & ci
 .github/
