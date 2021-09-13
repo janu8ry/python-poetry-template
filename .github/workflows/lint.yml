@@ -50,4 +50,4 @@ jobs:
           commit_user_name: Isort Action
       - name: Check types with mypy
         run: |
-          mypy --pretty --strict --ignore-missing-imports .
+          mypy --pretty --strict --ignore-missing-imports --exclude ./.venv .
